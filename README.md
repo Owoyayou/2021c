@@ -17,6 +17,7 @@ int main()
 printf("Hello World\n");
 }
 ```
+```C
 ///(1) File-New-EmptyFile Ctrl-Shift-N 開新檔
 ///(2) File-SaveAs另存新檔, week01-1.cpp 變彩色
 ///小心英文輸入法 # 大寫3 (＃中文太大，錯誤)
@@ -29,3 +30,4 @@ int main() ///圓括 大寫9,0
 }         ///雙引號 大寫 Enter旁
 ///Ctrl-滑鼠滾輪,字放大
 ///Ctrl-A全選, Ctrl-C複製, Ctrl-V貼上
+```
